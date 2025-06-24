@@ -1,4 +1,4 @@
-# # ![Cloud & DevOps Engineer](https://img.icons8.com/clouds/100/000000/cloud.png)  
+# ![Cloud & DevOps Engineer](https://img.icons8.com/clouds/100/000000/cloud.png)  
 **Gulajkar-sham23 — Cloud & DevOps Engineer**
 
 ---
